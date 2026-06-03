@@ -1,0 +1,8 @@
+header
+navigation
+main
+footer
+
+table
+  thead  tr  th
+  tbody  tr  td
